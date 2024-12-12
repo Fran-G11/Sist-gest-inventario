@@ -15,5 +15,5 @@ Un programa interactivo para gestionar productos, cantidades y precios. Diseñad
 - Controla que no se eliminen más unidades de las disponibles.
 
 ## Uso:
-1. Ejecutar el script en tu terminal.
+1. Ejecutar el script en terminal.
 2. Seguir las instrucciones del menú interactivo.
